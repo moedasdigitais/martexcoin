@@ -4,16 +4,18 @@ Running
 The following are some helpful notes on how to run MarteX Core on your native platform.
 <br />
 <br />
-Unix
+<b>Unix</b>
 Unpack the files into a directory and run:
-
+<br />
 bin/martex-qt (GUI) or
 bin/martexd (headless)
 <br />
 <br />
-Windows
+<b>Windows</b>
+<br />
 Unpack the files into a directory, and then run martex-qt.exe.
 <br />
 <br />
-macOS
+<b>macOS</b>
+<br />
 Drag MarteX-Qt to your applications folder, and then run MarteX-Qt.
