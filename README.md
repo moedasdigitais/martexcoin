@@ -5,6 +5,7 @@ The following are some helpful notes on how to run MarteX Core on your native pl
 <br />
 <br />
 <b>Unix</b>
+<br />
 Unpack the files into a directory and run:
 <br />
 bin/martex-qt (GUI) or
